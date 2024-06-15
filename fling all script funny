@@ -1,3 +1,4 @@
+print("pixel incremental server fucker")
 game.Players.LocalPlayer.Character:FindFirstChildOfClass("Humanoid"):ChangeState(Enum.HumanoidStateType.Dead)
 wait(5)
 local Players = game:GetService("Players")
