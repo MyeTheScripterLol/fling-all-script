@@ -290,7 +290,7 @@ for _,x in next, _G.Targets do
         Message("Error Occurred", "Username Invalid", 5)
     end
 end
-wait(15)
+wait(2.5)
 
 
 -- If you'd like to use a script before server hopping (Like a Automatic Chest collector you can put the Teleport() after it collected everything.
