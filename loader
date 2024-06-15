@@ -1,0 +1,2 @@
+-- fling all loader
+_G.Targets = {"All"} -- all, others or player name
