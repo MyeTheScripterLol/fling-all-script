@@ -1,3 +1,3 @@
 -- fling all loader
-_G.Targets = {"All"} -- all, others or player name
+_G.Targets = {"Others"} -- all, others or player name
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MyeTheScripterLol/qewq/main/fling%20all%20script%20funny"))()
